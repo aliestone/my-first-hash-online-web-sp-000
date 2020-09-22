@@ -10,7 +10,7 @@ end
   # We have 5 whale bone corsets, 2 porcelain vases and 3 oil paintings
 def retrieval
   shipping_manifest = shipping_manifest = {"whale bone corsets" => 5,"porcelain vases" => 2,"oil paintings" => 3}
-  puts shipping_manifest["oil paintings"]
+  return shipping_manifest["oil paintings"]
 end
 
 def adding
