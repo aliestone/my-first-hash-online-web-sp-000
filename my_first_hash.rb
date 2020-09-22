@@ -24,4 +24,3 @@ def adding
     end
   end
 end
-
