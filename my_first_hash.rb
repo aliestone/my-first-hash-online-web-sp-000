@@ -3,7 +3,7 @@ def my_hash
 end
 
 
-def shipping_manifest(the_manifest)
+def shipping_manifest
   the_manifest = {"Whale_bone_corsets" => "5", "porcelain_vases" => "2", "oil_paintings" => "3"}# set a variable called `the_manifest`, equal to a hash
 end
   # fill that hash with key/value pairs that describe the following information:
